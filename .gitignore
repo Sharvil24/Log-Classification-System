@@ -1,0 +1,44 @@
+# Python cache and bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+ENV/
+.virtualenv/
+.pyenv/
+
+# Datasets & training data
+data/
+dataset/
+datasets/
+training_data/
+training/dataset/
+
+# Logs and checkpoints
+logs/
+*.log
+*.ckpt
+checkpoints/
+tensorboard_logs/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Miscellaneous
+.DS_Store
+*.egg-info/
+dist/
+build/
+*.h5
+*.hdf5
+*.pt
+*.pth
