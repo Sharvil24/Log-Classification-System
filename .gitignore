@@ -41,4 +41,6 @@ build/
 *.h5
 *.hdf5
 *.pt
-*.pth
+*.pth.env
+.env
+./dataset/
