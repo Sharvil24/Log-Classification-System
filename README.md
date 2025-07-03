@@ -96,3 +96,5 @@ Logs are classified in a 3-stage pipeline:
 
 <h3>✅ Response</h3>
 <p>Returns a CSV with an additional column <code>target_label</code> representing predicted log category (e.g., Security Alert, Workflow Error, etc.)</p>
+<img width="1022" alt="Screenshot 2025-07-02 at 2 51 12 AM" src="https://github.com/user-attachments/assets/7123add9-2d98-44be-b770-78b03a774d73" />
+
